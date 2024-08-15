@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parineet Kakde</h1>
-<h3 align="center">A passionate software developer and open-source enthusiast.</h3>
+<h3 align="center">Passionate about learning new things.</h3>
 </br>
 📫 How to reach me :-  work.parineetkakde@gmai.com
 </br>
@@ -15,4 +15,4 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charu1603&" alt="charu1603" /></p>
+<p><img align="center" src="/?user=parineetkakde11&" alt="parineetkakde11" /></p>
