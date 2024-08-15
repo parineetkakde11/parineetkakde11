@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parineet Kakde</h1>
 <h3 align="center">Passionate about learning new things.</h3>
 </br>
-📫 How to reach me :-  work.parineetkakde@gmai.com
+📫 How to reach me :-  work.parineetkakde@gmail.com
 </br>
 
 
