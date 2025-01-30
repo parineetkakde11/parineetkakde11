@@ -5,10 +5,10 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Project Name](link-to-project)
+- 🔭 I’m currently working on [Project Name](https://developer.android.com/codelabs/health-connect#0)
 - 🌱 I’m currently learning [Java/Kotlin]
 - 💬 Ask me about [Java and Basic of C]
-- 📫 How to reach me: [Email](work.parineetkakde@gmail.com)
+- 📫 How to reach me: work.parineetkakde@gmail.com
 
 
 ## 🛠️ Technologies & Tools
@@ -28,5 +28,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/parineet-kakde-42a01a31a/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/parineetkakde16)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](work.parineetkakde@gmail.com)
+
 
