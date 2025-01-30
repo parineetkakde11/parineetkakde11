@@ -1,21 +1,32 @@
- <h1 align="center">Hi 👋, I'm Parineet Kakde</h1>
-<h3 align="center">Passionate about learning new things.</h3>
-</br>
-📫 How to reach me :-  work.parineetkakde@gmail.com
-</br>
+ <h1 align="center">Hi 👋, I'm Parineet Kakde</h1> 
+ <h3 align="center">Passionate about learning new things.</h3>
+
+![Profile Views](https://komarev.com/ghpvc/?username=parineetkakde11&color=blue)
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on [Project Name](link-to-project)
+- 🌱 I’m currently learning [Java/Kotlin]
+- 💬 Ask me about [Java and Basic of C]
+- 📫 How to reach me: [Email](work.parineetkakde@gmail.com)
+
+
+## 🛠️ Technologies & Tools
 
 
 
 
-<h3 align="left">Connect with me:</h3></br>
-<p align="left">
-<a href="https://www.linkedin.com/in/parineet-kakde-42a01a31a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a> <a href="https://x.com/parineetkakde16" target="blank"><img align="center" src="https://github.com/parineetkakde11/parineetkakde11/blob/main/x%20logo%202.png?raw=true"  height="30" width="40" /></a>
-</p>   
 
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+## 📈 GitHub Stats
 
+![Parineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=parineetkakde11&show_icons=true&theme=radical)
 
+## 🔗 Connect with Me
 
-
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/parineet-kakde-42a01a31a/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://x.com/parineetkakde16)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](work.parineetkakde@gmail.com)
 
