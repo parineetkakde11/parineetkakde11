@@ -21,9 +21,9 @@
     <img src="https://skillicons.dev/icons?i=androidstudio,java,c" />
   </a>
 </p>
-## 📈 GitHub Stats
 
-![Parineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=parineetkakde11&show_icons=true&theme=radical)
+
+
 
 
 <h3 align="center">Connect with me:</h3>
