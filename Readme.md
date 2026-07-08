@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,c" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,java" />
   </a>
 </p>
 
